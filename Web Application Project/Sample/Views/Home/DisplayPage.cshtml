@@ -1,0 +1,34 @@
+﻿@model IEnumerable<CustomerDetails>
+@{
+    ViewData["Title"] = "DisplayPage";
+}
+@{
+    Layout = "_Layout";
+}
+<h2>Details</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Customer Phone Numbers</th>
+            <th>First Name</th>
+            <th>second Name</th>
+            <th>Budget</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (CustomerDetails std in Model)
+        {
+            <tr>
+                <td>@std.PhoneNumber</td>
+                <td>@std.FirstName</td>
+                <td>@std.Lastname</td>
+                <td>@std.Amount</td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+
+
