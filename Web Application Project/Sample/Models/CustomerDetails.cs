@@ -16,6 +16,8 @@ namespace Sample.Models
         public string Lastname { get; set; }
         [Required(ErrorMessage = "Please Budget")]
         public int Amount { get; set; }
+        [Required(ErrorMessage = "Please Budget")]
+        public string Address { get; set; }
 
     }
 }
