@@ -39,7 +39,8 @@ namespace Sample.Controllers
         {
             FakeRepository.AddNewCustomer(obj);
 
-            return View("DisplayPage", FakeRepository.GetCustomer());
+            //return View("DisplayPage", FakeRepository.GetCustomer());
+            return View("GreetingPage");
         }
         public IActionResult ItemsList()
         {

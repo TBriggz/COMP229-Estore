@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\Emmanuel_Ajayi_301050676_A2\\Sample\\Sample.csproj",
+      "projectUniqueName": "D:\\Game programming\\COMP229-Estore\\Web Application Project\\Sample\\Sample.csproj",
       "projectName": "Sample",
-      "projectPath": "C:\\Users\\Lenovo\\Downloads\\Emmanuel_Ajayi_301050676_A2\\Sample\\Sample.csproj",
+      "projectPath": "D:\\Game programming\\COMP229-Estore\\Web Application Project\\Sample\\Sample.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Downloads\\Emmanuel_Ajayi_301050676_A2\\Sample\\obj\\",
+      "outputPath": "D:\\Game programming\\COMP229-Estore\\Web Application Project\\Sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

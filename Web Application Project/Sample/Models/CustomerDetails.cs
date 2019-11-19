@@ -8,6 +8,7 @@ namespace Sample.Models
 {
     public class CustomerDetails
     {
+        [Required(ErrorMessage ="Please a phone number")]
         public int PhoneNumber { get; set; }
         [Required(ErrorMessage = "Please enter a Firstname")]
         public string FirstName { get; set; }
