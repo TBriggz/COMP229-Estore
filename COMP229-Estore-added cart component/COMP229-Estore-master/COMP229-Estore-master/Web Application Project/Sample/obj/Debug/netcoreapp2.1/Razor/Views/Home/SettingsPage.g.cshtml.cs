@@ -68,7 +68,7 @@ using Sample.Models;
             WriteLiteral("<!Doctype html>\n<html>\n");
             EndContext();
             BeginContext(104, 105, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1e855bfd97304bf1bcba75bb95270e2d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "87fccfa067de42e6b5dafe7feccae012", async() => {
                 BeginContext(110, 92, true);
                 WriteLiteral("\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <title>Settings Page</title>\n");
                 EndContext();
@@ -88,7 +88,7 @@ using Sample.Models;
             WriteLiteral("\n");
             EndContext();
             BeginContext(210, 41, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d792c2a6e9ce4957b8c371b158522da9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b4e4174c9d54406bf32ee00575aa868", async() => {
                 BeginContext(216, 28, true);
                 WriteLiteral("\n    <h2>Settings Page</h2>\n");
                 EndContext();
