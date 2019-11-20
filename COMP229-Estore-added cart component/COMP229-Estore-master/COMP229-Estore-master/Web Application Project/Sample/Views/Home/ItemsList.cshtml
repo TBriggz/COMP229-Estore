@@ -1,0 +1,21 @@
+﻿@model IEnumerable<CustomerDetails>
+
+@{
+    ViewData["Title"] = "ItemsList";
+}
+@{
+    Layout = "_Layout";
+}
+<div class="center">
+    <table>
+        <tbody>
+            @foreach(CustomerDetails stu in Model)
+    {
+            <tr>
+                <td><a asp-action="DisplayPage" asp-route-StudentNumber="@stu.PhoneNumber">See details</a></td>
+                <td>@stu.FirstName</td>
+            </tr>
+    }
+        </tbody>
+    </table>
+</div>

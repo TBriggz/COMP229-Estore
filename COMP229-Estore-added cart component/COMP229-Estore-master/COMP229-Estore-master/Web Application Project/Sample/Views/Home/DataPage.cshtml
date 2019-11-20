@@ -1,0 +1,23 @@
+﻿@model ProductRepository
+@{
+    Layout = "_Layout";
+}
+<!Doctype html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Data Page</title>
+</head>
+<body>
+    <h2>Data Page</h2>
+    @foreach (var item in ProductRepository.storeProducts)
+    {
+        <p><u>Product ID</u>: @item.ProductID</p>
+        <p><u>Product</u>: @item.Name</p>
+        <p><u>Description</u>: @item.Description</p>
+        <p><u>Price</u>: @item.Price</p>
+        <button type="submit" class="btn btn-primary" asp-controller="Home" asp-action="DataPage">Add to Cart</button>
+        <br/>
+    }
+</body>foreach
+</html>
