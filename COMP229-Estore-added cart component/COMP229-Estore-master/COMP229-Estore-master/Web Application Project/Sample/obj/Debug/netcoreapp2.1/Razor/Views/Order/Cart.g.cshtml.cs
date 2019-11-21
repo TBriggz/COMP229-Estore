@@ -116,7 +116,7 @@ using Sample.Models;
             WriteLiteral("\r\n                </td>\r\n                <td>\r\n                    ");
             EndContext();
             BeginContext(741, 356, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae4dd6d9cf27461eb7024bb1625cf9b0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "271d49f95f754a76bf4e8248d0f0eeab", async() => {
                 BeginContext(789, 63, true);
                 WriteLiteral("\r\n                        <input type=\"hidden\" name=\"ProductID\"");
                 EndContext();
@@ -170,7 +170,7 @@ WriteAttributeValue("", 892, item.Product.ProductID, 892, 23, false);
             WriteLiteral("\r\n            </td>\r\n        </tr>\r\n    </tfoot>\r\n</table>\r\n\r\n<div class=\"text-center\">\r\n    ");
             EndContext();
             BeginContext(1434, 97, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "01ed406aeaa7486ab77a94e39492d1b1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1a40d436ab75489ab0156e3f4fae43c1", async() => {
                 BeginContext(1503, 24, true);
                 WriteLiteral("\r\n        Checkout\r\n    ");
                 EndContext();
