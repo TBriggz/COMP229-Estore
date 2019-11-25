@@ -66,7 +66,7 @@ using Sample.Models;
             WriteLiteral("\n");
             EndContext();
             BeginContext(54, 227, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c40985e7cd8f49bb85b94de712629aff", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "30b0fb9b2dfe40b78a24577d5ff2f40c", async() => {
                 BeginContext(94, 36, true);
                 WriteLiteral("\n    <h3>Registration Form</h3>\n    ");
                 EndContext();
@@ -102,7 +102,7 @@ Write(Html.Partial("PartialView"));
             WriteLiteral("\n");
             EndContext();
             BeginContext(282, 159, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e14bc32aeb1a4d22a586c2f49ed64113", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a0b30359629b42b392154c5b39d011da", async() => {
                 BeginContext(321, 113, true);
                 WriteLiteral("\n    <div class=\"text-center\">\n        <input class=\"btn btn-primary\" type=\"submit\" value=\"Cancel\" />\n    </div>\n");
                 EndContext();
