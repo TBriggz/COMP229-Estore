@@ -8,5 +8,9 @@ namespace Sample.Models
     public interface IProductRepository
     {
         IQueryable<Product> Products { get; }
+        IQueryable<Product> getProducts();
+        void EditProducts(Product book);
+        Product getProduct(int productId);
+
     }
 }

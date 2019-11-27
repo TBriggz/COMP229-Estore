@@ -23,19 +23,26 @@ namespace Sample.Controllers
             repository = repo;
         }
 
-        public IActionResult Edit(int Id)
+        [HttpGet]
+        public ViewResult EditPage(int productId)
         {
-            Product std = Products.Where(s => s.ProductID == Id).FirstOrDefault();
-            return View(std);
+            Product john=repository.Products.FirstOrDefault(b => b.ProductID == productId);
+            return View(john);
         }
+
         [HttpPost]
-        public IActionResult Edit(Product std)
+        public IActionResult Edit(Product books)
         {
-            var Id= std.ProductID;
-            var name = std.Name;
-            var description = std.Description;
-            var price = std.Price;
-            return RedirectToAction("DataPage");
+            if (ModelState.IsValid)
+            {
+                repository.EditProducts(books);
+                TempData["message"] = $"{books.ProductID}has been saved";
+                return RedirectToAction("DataPage");
+            }
+            else
+            {
+                return View(books);
+            }
         }
         //public IActionResult DataPage()
         //{

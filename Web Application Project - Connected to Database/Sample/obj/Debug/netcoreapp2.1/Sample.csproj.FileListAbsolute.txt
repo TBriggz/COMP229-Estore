@@ -338,7 +338,6 @@ D:\Game programming\COMP229-Estore\Web Application Project - Connected to Databa
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.RazorCoreGenerate.cache
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\DataPage.g.cshtml.cs
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\DisplayPage.g.cshtml.cs
-D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\GreetingPage.g.cshtml.cs
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Insert.g.cshtml.cs
@@ -357,3 +356,4 @@ D:\Game programming\COMP229-Estore\Web Application Project - Connected to Databa
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.dll
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CopyComplete
+D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditPage.g.cshtml.cs

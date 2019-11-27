@@ -14,7 +14,7 @@ namespace Sample.Models
         {
             ApplicationDbContext context = app.ApplicationServices
             .GetRequiredService<ApplicationDbContext>();
-            //context.Database.Migrate();
+            context.Database.Migrate();
             if (!context.Products.Any())
             {
                 context.Products.AddRange(
@@ -73,8 +73,9 @@ namespace Sample.Models
                     Price = 599.99M
                 }
             );
-                context.SaveChanges();
+                
             }
+            context.SaveChanges();
         }
     }
 }

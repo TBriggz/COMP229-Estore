@@ -22,6 +22,7 @@ namespace Sample
                 .UseStartup<Startup>()
                 .UseDefaultServiceProvider(options =>
                 options.ValidateScopes = false);
+        
 
     }
 }
