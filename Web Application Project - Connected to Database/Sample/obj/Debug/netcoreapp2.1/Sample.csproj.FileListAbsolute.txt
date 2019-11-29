@@ -357,3 +357,42 @@ D:\Game programming\COMP229-Estore\Web Application Project - Connected to Databa
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CopyComplete
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditPage.g.cshtml.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Sample.deps.json
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.json
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.dev.json
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Sample.dll
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Sample.pdb
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Sample.Views.dll
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\bin\Debug\netcoreapp2.1\Sample.Views.pdb
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.csprojAssemblyReference.cache
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.RazorAssemblyInfo.cache
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.RazorAssemblyInfo.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfoInputs.cache
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfo.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.TagHelpers.input.cache
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.TagHelpers.output.cache
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.RazorCoreGenerate.cache
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\DataPage.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\DisplayPage.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditPage.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\GreetingPage.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Insert.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\ItemsList.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\SettingsPage.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserPage.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Order\Cart.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PartialView.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductData.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.RazorTargetAssemblyInfo.cache
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.RazorTargetAssemblyInfo.cs
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.Views.pdb
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.dll
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
+C:\Users\skate\Documents\GitHub\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CopyComplete
