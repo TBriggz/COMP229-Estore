@@ -1,0 +1,19 @@
+﻿@using Sample.Controllers
+@model EFProductRepository
+@{
+    Layout = "_Layout";
+}
+<!Doctype html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Data Page</title>
+</head>
+<body>
+    <h2>Data Page</h2>
+    @foreach (var item in Model.Products)
+    {
+        @Html.Partial("ProductData", item)
+    }
+</body>
+</html>
