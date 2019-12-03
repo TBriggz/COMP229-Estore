@@ -4,13 +4,15 @@
     margin-right: auto;
     margin-left: auto;
     background-color:darkgrey;
+    color: white;
 }
 
 h2 {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size : 40px;
     text-decoration: underline;
     text-align: center;
+    color: white;
 }
 
 a {
