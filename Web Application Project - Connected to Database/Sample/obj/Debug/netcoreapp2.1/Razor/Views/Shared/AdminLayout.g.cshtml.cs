@@ -62,12 +62,12 @@ using Sample.Models;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 437, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "43993c8fce6a4ae1b4a7089ce5d18ffe", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "942a3d8a60ff4048b9f7ff89bf74a863", async() => {
                 BeginContext(33, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(39, 77, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "575d5e2bea0648ce8f29eb02854fe37b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f4779fbdcbe946fb8c800fa039d759e4", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper>();
@@ -112,7 +112,7 @@ using Sample.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(466, 539, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64478a56f3dd486cb73ca9c0ee2364bb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "93013fb01d734b978a8443759a8ce86c", async() => {
                 BeginContext(493, 90, true);
                 WriteLiteral("\r\n    <div class=\"bg-info col-lg-pull-2 row\">\r\n        <div class=\"col\">\r\n            <h4>");
                 EndContext();
@@ -127,7 +127,7 @@ using Sample.Models;
                 WriteLiteral("</h4>\r\n        </div>\r\n    </div>\r\n    <div class=\"col-2\">\r\n        ");
                 EndContext();
                 BeginContext(665, 102, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "52073a61ca0a4281a5e4fa09f5241a02", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6611bc841d3c482aa21cac92a3387446", async() => {
                     BeginContext(756, 7, true);
                     WriteLiteral("Log Out");
                     EndContext();
