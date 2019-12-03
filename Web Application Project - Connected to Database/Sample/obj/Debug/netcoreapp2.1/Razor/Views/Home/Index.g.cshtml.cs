@@ -63,7 +63,7 @@ using Sample.Models;
             WriteLiteral("<!Doctype html>\r\n<html>\r\n");
             EndContext();
             BeginContext(59, 100, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7c87a1f393784c12a1aa51a5656f5121", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4ad59f6ce1e84e3e878bd049863e6c1a", async() => {
                 BeginContext(65, 87, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Index</title>\r\n");
                 EndContext();
@@ -83,7 +83,7 @@ using Sample.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(161, 360, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fcb6da894dba42628c5b73264857e171", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "95fe428b2de5420fabbeeb039507a1c8", async() => {
                 BeginContext(167, 347, true);
                 WriteLiteral(@"
     <h2>Sons and Sons Electronics</h2>
