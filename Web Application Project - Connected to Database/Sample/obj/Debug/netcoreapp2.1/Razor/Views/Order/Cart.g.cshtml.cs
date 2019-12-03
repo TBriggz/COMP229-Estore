@@ -120,7 +120,7 @@ using Sample.Models;
             WriteLiteral("\n                </td>\n                <td>\n                    ");
             EndContext();
             BeginContext(789, 350, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ed5919719ab64e8a812973353a98bdfc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea123b79168f4d2d9882a0ce4db404f2", async() => {
                 BeginContext(837, 62, true);
                 WriteLiteral("\n                        <input type=\"hidden\" name=\"ProductID\"");
                 EndContext();
@@ -174,7 +174,7 @@ WriteAttributeValue("", 938, item.Product.ProductID, 938, 23, false);
             WriteLiteral("\n            </td>\n        </tr>\n    </tfoot>\n</table>\n\n<div class=\"text-center\">\n    ");
             EndContext();
             BeginContext(1475, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4307159c9ab54dffa79929b11f93bb21", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8a681e4293f24418b7b6ba35cb0a5285", async() => {
                 BeginContext(1544, 22, true);
                 WriteLiteral("\n        Checkout\n    ");
                 EndContext();
@@ -199,7 +199,7 @@ WriteAttributeValue("", 938, item.Product.ProductID, 938, 23, false);
             WriteLiteral("\n    ");
             EndContext();
             BeginContext(1575, 118, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c553183e3d834bef8eeac047df5983a5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f358e8909be448539daa7a84ed878395", async() => {
                 BeginContext(1646, 43, true);
                 WriteLiteral("\n           &nbsp;&nbsp;Add more Items\n    ");
                 EndContext();

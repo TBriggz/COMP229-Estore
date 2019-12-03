@@ -4,7 +4,7 @@
     margin-right: auto;
     margin-left: auto;
     background-color:darkgrey;
-    /*color: white;*/
+    color: white;
 }
 
 h2 {
@@ -12,7 +12,7 @@ h2 {
     font-size : 40px;
     text-decoration: underline;
     text-align: center;
-    /*color: white;*/
+    color: white;
 }
 
 a {
