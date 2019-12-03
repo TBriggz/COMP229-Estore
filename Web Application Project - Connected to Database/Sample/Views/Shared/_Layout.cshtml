@@ -1,6 +1,7 @@
 ﻿<!DOCTYPE html>
 
 <html>
+
 <head>
 
     <meta name="viewport" content="width=device-width" />
@@ -8,11 +9,40 @@
     <title>Sons and Sons Electronics</title>
 </head>
 
+<style>
+    body {
+        background-image: url('https://ak2.picdn.net/shutterstock/videos/1014169892/thumb/11.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+
+    div {
+        background-color: rgba(5,4,2,0.5);
+        width: 850px;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 15px;
+    }
+
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: darkgoldenrod;
+        color: white;
+        text-align: center;
+    }
+</style>
+
+
 <body>
     <div>
         <div style="text-align:center">
             <a class="button" asp-action="SettingsPage">
-                <img src="~/images/icon.png" width="50" height="50" align="left" />
+                <img src="~/images/icon.png" width="50" height="50" align="middle" />
             </a>
             @if (!User.Identity.IsAuthenticated)
             {
@@ -32,5 +62,10 @@
         </div>
         @RenderBody()
     </div>
+
+    <div class="footer">
+        <p>&copy;COMP229 Fall- 2019 - Sons and Sons Electronics</p>
+    </div>
+
 </body>
 </html>
