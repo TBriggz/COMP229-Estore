@@ -14,6 +14,15 @@
             <a class="button" asp-action="SettingsPage">
                 <img src="~/images/icon.png" width="50" height="50" align="left" />
             </a>
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <a class="button" asp-action="Login" asp-controller="Account">Login|</a>
+            }
+            else
+            {
+                @User.Identity.Name
+                <a class="button" asp-action="Logout" asp-controller="Account">Logout|</a>
+            }
             <a class="button" asp-action="Index">Home Page|</a>
             <a class="button" asp-action="DataPage">Data Page|</a>
             <a class="button" asp-action="Insert">Insert form|</a>

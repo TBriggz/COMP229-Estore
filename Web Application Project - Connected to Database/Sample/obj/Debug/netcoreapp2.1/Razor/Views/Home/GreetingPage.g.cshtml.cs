@@ -54,7 +54,7 @@ using Sample.Models;
             WriteLiteral("<!Doctype html>\n<html>\n");
             EndContext();
             BeginContext(23, 105, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "314987fd7e40490c8caab0b80dba516d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eae646b5135a47e6975bf7b6780bd3f4", async() => {
                 BeginContext(29, 92, true);
                 WriteLiteral("\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <title>Greeting Page</title>\n");
                 EndContext();
@@ -74,7 +74,7 @@ using Sample.Models;
             WriteLiteral("\n");
             EndContext();
             BeginContext(129, 81, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "03807364412e425ab2b6fe3463bd259f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "832f49a6c34a438e9ce9787e2d88c3cd", async() => {
                 BeginContext(135, 68, true);
                 WriteLiteral("\n    <h2>Thank You for registering. please enjoy your shopping</h2>\n");
                 EndContext();

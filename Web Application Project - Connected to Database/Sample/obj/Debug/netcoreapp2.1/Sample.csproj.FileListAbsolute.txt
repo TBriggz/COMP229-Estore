@@ -357,3 +357,5 @@ D:\Game programming\COMP229-Estore\Web Application Project - Connected to Databa
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CopyComplete
 D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditPage.g.cshtml.cs
+D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AdminLayout.g.cshtml.cs
+D:\Game programming\COMP229-Estore\Web Application Project - Connected to Database\Sample\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs

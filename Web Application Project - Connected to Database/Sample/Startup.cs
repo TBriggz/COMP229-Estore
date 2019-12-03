@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Sample.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace Sample
 {
@@ -28,6 +29,11 @@ namespace Sample
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration["Data:SampleProducts:ConnectionString"]));
+            services.AddDbContext<AppIdentityDbContext>(options =>
+              options.UseSqlServer(Configuration["Data:SampleIdentity:ConnectionString"]));
+            services.AddIdentity<IdentityUser, IdentityRole>()
+               .AddEntityFrameworkStores<AppIdentityDbContext>()
+               .AddDefaultTokenProviders();
             services.AddTransient<IProductRepository, EFProductRepository>();
             services.AddScoped<Cart>(sp => Cart.GetCart(sp));
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
@@ -61,6 +67,7 @@ namespace Sample
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseHttpsRedirection();
+            app.UseAuthentication();
             app.UseStaticFiles();
             //app.UseMvcWithDefaultRoute();
             app.UseMvc(routes =>
@@ -70,6 +77,7 @@ namespace Sample
                 template: "{controller=Home}/{action=Index}/{id?}");
             });
             SeedData.EnsurePopulated(app);
+            IdentitySeedData.EnsurePopulated(app);
         }
     }
 }

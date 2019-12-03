@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Sample.Models;
 using Sample.Models.ViewModels;
@@ -16,7 +17,7 @@ namespace Sample.Controllers
 
         ProductRepository poo =new ProductRepository();
         List<Product> Products = ProductRepository.storeProducts;
-
+        
         public HomeController(Cart aCart, IProductRepository repo)
         {
             cart = aCart;
@@ -24,6 +25,7 @@ namespace Sample.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public ViewResult EditPage(int productId)
         {
             Product john=repository.Products.FirstOrDefault(b => b.ProductID == productId);
