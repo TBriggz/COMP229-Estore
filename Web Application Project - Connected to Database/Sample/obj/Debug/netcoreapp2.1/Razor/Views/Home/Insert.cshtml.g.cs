@@ -67,7 +67,11 @@ using Sample.Models;
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Insert.g.cshtml.cs
             BeginContext(54, 227, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Insert.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "187961bb2e514066a7cc7af9d5274f91", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "312b660bfca44f47a5babc0b8a750e6a", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Insert.g.cshtml.cs
                 BeginContext(94, 36, true);
                 WriteLiteral("\n    <h3>Registration Form</h3>\n    ");
 =======
@@ -110,7 +114,11 @@ Write(Html.Partial("PartialView"));
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Insert.g.cshtml.cs
             BeginContext(282, 159, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Insert.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "331d6df602d14bc5925a6cfeaa359ee7", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f8620d9b24274c7d8710d6933b62edcc", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Insert.g.cshtml.cs
                 BeginContext(321, 113, true);
                 WriteLiteral("\n    <div class=\"text-center\">\n        <input class=\"btn btn-primary\" type=\"submit\" value=\"Cancel\" />\n    </div>\n");
 =======

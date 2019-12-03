@@ -65,11 +65,16 @@ using Sample.Models;
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.g.cshtml.cs
             BeginContext(136, 401, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4d1c09018a9143158466fc6b2a3fed77", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "96dd2b0062404df2adab13bc04477bb0", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.g.cshtml.cs
                 BeginContext(224, 5, true);
                 WriteLiteral("\n    ");
                 EndContext();
                 BeginContext(229, 43, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.cshtml.g.cs
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e4c1159fbdb941f898cfcd87a5c8f5f2", async() => {
 =======
             BeginContext(142, 409, false);
@@ -80,6 +85,9 @@ using Sample.Models;
                 BeginContext(236, 43, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5626e64321484552a4c05c42c39ab6f7", async() => {
 >>>>>>> 655d383d4cde5882b7462399b1d8f56eadeb10df:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.cshtml.g.cs
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "970ced1d9830489985b04204ce2879a1", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.g.cshtml.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -175,7 +183,11 @@ AddHtmlAttributeValue("", 152, Model.ProductID, 152, 16, false);
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.g.cshtml.cs
             BeginContext(538, 72, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7f5306489e384f3281a325f0aa360b7f", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e810e3a6b0044c75a027ce275acff6bd", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ProductData.g.cshtml.cs
                 BeginContext(602, 4, true);
 =======
             BeginContext(553, 72, false);

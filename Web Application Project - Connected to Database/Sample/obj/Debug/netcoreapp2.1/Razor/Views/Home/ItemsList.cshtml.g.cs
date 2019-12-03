@@ -79,7 +79,11 @@ using Sample.Models;
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/ItemsList.g.cshtml.cs
             BeginContext(251, 86, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/ItemsList.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83dee673551b48bfac0d0b532e1329b9", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5d6b6f77ddbc40f899db834f6533565e", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/ItemsList.g.cshtml.cs
                 BeginContext(322, 11, true);
 =======
             BeginContext(265, 86, false);

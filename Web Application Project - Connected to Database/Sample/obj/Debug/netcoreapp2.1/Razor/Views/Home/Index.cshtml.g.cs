@@ -69,7 +69,11 @@ using Sample.Models;
                 WriteLiteral("\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <title>Index</title>\n");
 =======
             BeginContext(59, 100, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "15d79d60b2664c9c8f3a89592e5c4788", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7c87a1f393784c12a1aa51a5656f5121", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
                 BeginContext(65, 87, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Index</title>\r\n");
 >>>>>>> 655d383d4cde5882b7462399b1d8f56eadeb10df:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
@@ -96,7 +100,11 @@ using Sample.Models;
                 WriteLiteral("\n    <h2>Sons and Sons Electronics</h2>\n");
 =======
             BeginContext(161, 360, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "80ca47e9d745459fae7ae1ea68830f17", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fcb6da894dba42628c5b73264857e171", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
                 BeginContext(167, 347, true);
                 WriteLiteral(@"
     <h2>Sons and Sons Electronics</h2>

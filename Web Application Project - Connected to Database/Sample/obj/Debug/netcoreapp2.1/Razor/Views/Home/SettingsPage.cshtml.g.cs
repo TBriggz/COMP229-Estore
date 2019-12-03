@@ -69,7 +69,11 @@ using Sample.Models;
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/SettingsPage.g.cshtml.cs
             BeginContext(104, 105, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/SettingsPage.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "956c9f2372104b10a0512217bc632c85", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "697041e19340488d857def4e5114214b", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/SettingsPage.g.cshtml.cs
                 BeginContext(110, 92, true);
                 WriteLiteral("\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <title>Settings Page</title>\n");
 =======
@@ -96,7 +100,11 @@ using Sample.Models;
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/SettingsPage.g.cshtml.cs
             BeginContext(210, 41, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/SettingsPage.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef06a3ecb845485386f7f2b9a819aed3", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1bab32ad094142e5bc6d97e1e1104012", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/SettingsPage.g.cshtml.cs
                 BeginContext(216, 28, true);
                 WriteLiteral("\n    <h2>Settings Page</h2>\n");
 =======

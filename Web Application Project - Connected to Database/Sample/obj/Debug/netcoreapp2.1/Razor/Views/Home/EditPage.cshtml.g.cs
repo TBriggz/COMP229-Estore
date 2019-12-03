@@ -65,20 +65,28 @@ using Sample.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(50, 711, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "20231c282c5a4a38b4b5dd145863b613", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a0382b0d5de462d8ec5bc6ccc0db8dc", async() => {
 >>>>>>> 655d383d4cde5882b7462399b1d8f56eadeb10df:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "44f256f7633244bcb9789372bb95c101", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 BeginContext(88, 99, true);
                 WriteLiteral("\r\n    <h3>Registration Form</h3>\r\n    <div class=\"form-group\">\r\n        <label>Product ID: </label>");
                 EndContext();
                 BeginContext(187, 64, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "96c3d993d1724e5ea8f170e97385ed7f", async() => {
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b79e2b82d29745ff9ad8c2702ad82f57", async() => {
 >>>>>>> 655d383d4cde5882b7462399b1d8f56eadeb10df:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "d33f78db3cfb40e5be4f1f1d59708959", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -104,11 +112,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 WriteLiteral("\r\n    </div>\r\n    <div class=\"form-group\">\r\n        <label>Name: </label>");
                 EndContext();
                 BeginContext(324, 45, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f2d962e3196a424cbee36e6b6101c521", async() => {
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "865d10476ba140f8b0a15b7631992b5a", async() => {
 >>>>>>> 655d383d4cde5882b7462399b1d8f56eadeb10df:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "aeab214848c54ec39ae1f87d88179fa7", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -132,11 +144,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 WriteLiteral("\r\n    </div>\r\n    <div class=\"form-group\">\r\n        <label>Description: </label>");
                 EndContext();
                 BeginContext(449, 52, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "0b2c8f2044324ee48aa24510a9cda41c", async() => {
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b2a5aabcef9b49fabe1baf2b8d234555", async() => {
 >>>>>>> 655d383d4cde5882b7462399b1d8f56eadeb10df:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e9ca99f857594028bc7808063ff2c0cd", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -160,11 +176,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 WriteLiteral("\r\n    </div>\r\n    <div class=\"form-group\">\r\n        <label>$Price: </label>");
                 EndContext();
                 BeginContext(576, 46, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a8938d5d5f0c4d068c2759e8b5d20b40", async() => {
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e7be7462fa5f42fcb19d3be0211edaa7", async() => {
 >>>>>>> 655d383d4cde5882b7462399b1d8f56eadeb10df:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.cshtml.g.cs
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1976d48e76e748c18f01d0798974dad1", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditPage.g.cshtml.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();

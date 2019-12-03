@@ -121,7 +121,11 @@ using Sample.Models;
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.g.cshtml.cs
             BeginContext(789, 350, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3f0c34e7999847b0932a9d4f72776564", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea123b79168f4d2d9882a0ce4db404f2", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.g.cshtml.cs
                 BeginContext(837, 62, true);
                 WriteLiteral("\n                        <input type=\"hidden\" name=\"ProductID\"");
 =======
@@ -182,7 +186,11 @@ WriteAttributeValue("", 968, item.Product.ProductID, 968, 23, false);
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.g.cshtml.cs
             BeginContext(1475, 95, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dde8ffaffd3045b3a12da7a3930d1b8e", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8a681e4293f24418b7b6ba35cb0a5285", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.g.cshtml.cs
                 BeginContext(1544, 22, true);
                 WriteLiteral("\n        Checkout\n    ");
 =======
@@ -214,7 +222,11 @@ WriteAttributeValue("", 968, item.Product.ProductID, 968, 23, false);
             EndContext();
 <<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.g.cshtml.cs
             BeginContext(1575, 118, false);
+<<<<<<< HEAD:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.cshtml.g.cs
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0ad4a1e4a5ca4276b630b5338bb502b4", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f358e8909be448539daa7a84ed878395", async() => {
+>>>>>>> parent of a1f8987... 10th commit:Web Application Project - Connected to Database/Sample/obj/Debug/netcoreapp2.1/Razor/Views/Order/Cart.g.cshtml.cs
                 BeginContext(1646, 43, true);
                 WriteLiteral("\n           &nbsp;&nbsp;Add more Items\n    ");
 =======
